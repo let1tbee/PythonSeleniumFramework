@@ -1,1 +1,1 @@
-"# PythonSeleniumFramework" 
+This project is represantation of my skills in pyhron Web testing automatisation with Selenium. Feel free to check it. Please note, that all pages and data under test was taken from Rahul Shetty lectures on Udemy.
